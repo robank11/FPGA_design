@@ -1,0 +1,24 @@
+
+
+NET "lcd_rs" LOC = B2;
+NET "lcd_rw" LOC = A3;
+NET "lcd_en" LOC = J3;
+NET "rst_n" LOC = A7;
+NET "lcd_data[0]" LOC = C6;
+NET "lcd_data[1]" LOC = B6;
+NET "lcd_data[2]" LOC = C5;
+NET "lcd_data[3]" LOC = A9;
+NET "lcd_data[4]" LOC = B9;
+NET "lcd_data[5]" LOC = A10;
+NET "lcd_data[6]" LOC = C12;
+NET "lcd_data[7]" LOC = A13;
+NET "lcd_n" LOC = C13;
+NET "clk" LOC = B8;
+NET "lcd_p" LOC = D12;
+
+
+
+
+# PlanAhead Generated physical constraints 
+
+
